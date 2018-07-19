@@ -1,2 +1,2 @@
-# BestPractice
-最佳实践
+# Initial page
+
